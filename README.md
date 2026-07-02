@@ -2,76 +2,22 @@
 
 🎓 Computer Engineering Student
 
-💻 Backend Development Enthusiast
+💻 Interested in Backend Development, Cyber Security and Secure Software Development.
 
-🔒 Interested in Cyber Security and Secure Software Development
+🌱 Currently developing a Secure E-Commerce API with ASP.NET Core.
 
-🌱 Currently improving my skills by developing secure and scalable web applications with ASP.NET Core.
+## 🚀 Tech Stack
 
----
+**Languages:** C#, Python, JavaScript, SQL, PHP
 
-## 🚀 Technical Skills
+**Frameworks:** ASP.NET Core, Entity Framework Core, Node.js, Express.js, Laravel, REST API, MVC
 
-### Programming Languages
-- C#
-- Python
-- JavaScript
-- SQL
-- PHP
+**Databases:** PostgreSQL, Microsoft SQL Server
 
-### Frameworks & Technologies
-- ASP.NET Core
-- Entity Framework Core
-- Node.js
-- Express.js
-- Laravel
-- REST API
-- MVC
+**Security:** JWT Authentication, RBAC, BCrypt, API Security, Rate Limiting
 
-### Databases
-- PostgreSQL
-- Microsoft SQL Server
+**Tools:** Docker, Docker Compose, Git, GitHub, Postman, Swagger, Serilog
 
-### Security
-- JWT Authentication
-- Role-Based Authorization (RBAC)
-- BCrypt
-- API Security
-- Rate Limiting
+**Web:** HTML, CSS
 
-### Tools
-- Docker
-- Docker Compose
-- Git
-- GitHub
-- Postman
-- Swagger (OpenAPI)
-- Serilog
-
-### Web Technologies
-- HTML
-- CSS
-
----
-
-## 📚 Currently Learning
-
-- Docker & Containerization
-- PostgreSQL
-- Secure API Development
-- Cyber Security
-- Clean Architecture
-
----
-
-## 🎯 Current Project
-
-**Secure E-Commerce API**
-
-Building a secure RESTful API using **ASP.NET Core**, **Entity Framework Core**, **PostgreSQL**, **JWT Authentication**, and **Docker**.
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/berre-yılmaz-37a97b261/
+📫 **LinkedIn:** https://www.linkedin.com/in/berre-yılmaz-37a97b261/
