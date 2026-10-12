@@ -1,6 +1,6 @@
 # Hi, I'm Berre Yılmaz 👋
 
-🎓 Computer Engineering Senior Student at Düzce University
+🎓 Computer Engineering Student at Düzce University
 💻 Passionate about building end-to-end software projects by combining backend development, database systems, and artificial intelligence.
 
 ---
